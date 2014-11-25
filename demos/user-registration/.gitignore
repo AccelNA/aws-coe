@@ -1,0 +1,5 @@
+/config.php
+/composer.phar
+/composer.lock
+/vendor
+/nbproject/private/
