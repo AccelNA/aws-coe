@@ -5,5 +5,15 @@ Accel AWS Center of Excellence
 
 Guidelines and solutions architecture for building highly scalable Cloud apps on AWS.
 
-### Demo Apps
-* [user-registration](https://github.com/AccelNA/aws-coe/tree/master/demos/user-registration) - A simple demo for building AWS apps with DynamoDB and S3.
+## Demo Apps
+
+#### A simple demo for building AWS apps with DynamoDB and S3.
+[user-registration](https://github.com/AccelNA/aws-coe/tree/master/demos/user-registration) 
+
+## Reference Apps
+Full-fledged web apps on the AWS Cloud.
+
+### bookmark.new 
+An upcoming web app, for bookmarking and managing all kind of digital resources.
+
+## Best Practices and Patterns
