@@ -7,8 +7,7 @@ Guidelines and solutions architecture for building highly scalable Cloud apps on
 
 ## Demo Apps
 
-#### [*user-registration*](https://github.com/AccelNA/aws-coe/tree/master/demos/user-registration) 
-A simple demo for building AWS apps with DynamoDB and S3.
+[*user-registration*](https://github.com/AccelNA/aws-coe/tree/master/demos/user-registration) - A simple demo for building AWS apps with DynamoDB and S3.
 
 ## Reference Apps
 Full-fledged web apps on the AWS Cloud.
