@@ -7,3 +7,6 @@
 <!-- Jquery validation -->
 <script src="js/jquery.validate.js"></script>
 <script src="js/common.js"></script>
+
+</body>
+</html>
