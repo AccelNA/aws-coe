@@ -22,4 +22,4 @@ An upcoming [web app](https://github.com/AccelNA/bookmark.new), for bookmarking 
 * [Building And Deploying Web Apps Into AWS Cloud Using AWS Elastic Beanstalk](https://github.com/AccelNA/aws-coe/wiki/Building-And-Deploying-Web-Apps-Into-AWS-Cloud-Using-AWS-Elastic-Beanstalk)
 * [Building A Simple Web App On AWS With DynamoDB and S3](https://github.com/AccelNA/aws-coe/wiki/Building-A-Simple-Web-App-On-AWS-With-DynamoDB-and-S3)
 * [Hosting A Static Website On AWS S3](https://github.com/AccelNA/aws-coe/wiki/Hosting--A-Static-Website--On-AWS-S3)
-* [Building A Simple App With ReactJS And Parse](https://github.com/AccelNA/aws-coe/wiki/Building-A-Simple-App-With--ReactJS-And-Parse)
+* [Building A Hybrid Mobile App With ReactJS, Parse and PhoneGap](https://github.com/AccelNA/aws-coe/wiki/Building-A-Hybrid-Mobile-App-With-ReactJS,-Parse-and-PhoneGap)
