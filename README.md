@@ -13,7 +13,7 @@ Guidelines and solutions architecture for building highly scalable Cloud apps on
 Full-fledged web apps on the AWS Cloud.
 
 ### bookmark.new 
-An upcoming [web app](https://github.com/AccelNA/bookmark.new), for bookmarking and managing all kind of digital resources.
+A [web app](https://github.com/AccelNA/bookmark.new), for bookmarking and managing all kind of digital resources.
 
 ## Best Practices and Patterns
 
