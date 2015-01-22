@@ -12,8 +12,9 @@ Guidelines and solutions architecture for building highly scalable Cloud apps on
 ## Reference Apps
 Full-fledged web apps on the AWS Cloud.
 
-### bookmark.new 
-A [web app](https://github.com/AccelNA/bookmark.new), for bookmarking and managing all kind of digital resources.
+#### [bookmark.new](https://github.com/AccelNA/bookmark.new) 
+A web app for bookmark and manage all kind of digital resources, built with AWS DynamoDB, Java and AngularJS
+
 
 ## Best Practices and Patterns
 
