@@ -1,5 +1,5 @@
 <?php
-     require 'vendor\autoload.php';
+     require '/home/ec2-user/vendor\autoload.php';
      use Aws\Common\Enum\Region;
      use Aws\DynamoDb\Enum\Type;
 
